@@ -4,7 +4,6 @@
 
 ### About Me
 
-- 🎓 Studying at Kenyatta University
 - 💼 Working at Universal Peace Federation
 - 🌍 Interested in Blockchain and Sustainable Development also tring out Django
 
