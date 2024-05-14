@@ -5,7 +5,8 @@
 ### About Me
 
 - 💼 Working at Universal Peace Federation
-- 🌍 Interested in Blockchain and Sustainable Development also tring out Django and solidity ans some taste into cybersecurity
+- 🌍 Interested in Blockchain and Sustainable Development
+- Also tring out Django and solidity and some taste into cybersecurity
 
 ### Tech Stack
 
