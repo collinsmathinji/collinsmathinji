@@ -17,7 +17,7 @@
 
 ### Currently Learning
 
-- Web3 and Blockchain Development
+- Web3 and SmartContracts Development
 
 ### Get in Touch
 
