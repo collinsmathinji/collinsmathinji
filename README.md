@@ -10,10 +10,10 @@
 
 ### Tech Stack
 
-- Frontend: HTML, CSS, JavaScript, React
+- Frontend: HTML, CSS, JavaScript, React,Django
 - Backend: Node.js, Express, Django
 - Database: MongoDB, MySQL
-- Other: TypeScript, Webpack
+- Other: TypeScript, Webpack,python
 
 ### Currently Learning
 
