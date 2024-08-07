@@ -82,7 +82,7 @@ Behold, the epic saga of commits, pull requests, and code reviews:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak" />
 </p>
 
-## 🌈 Code Spectrum
+##  Code Spectrum
 
 The vibrant palette of languages that paint my digital canvas:
 
