@@ -8,8 +8,10 @@
 
 ## 💫 About Me
 > "Code is poetry written for machines but read by humans."
+>
+> "Always code as if the person who will maintain your code is a violent psychopath who knows where you live."
 
-Full Stack Developer crafting digital solutions at Universal Peace Federation. MERN enthusiast with a passion for Web3 innovation and cybersecurity. Building bridges between traditional web and the blockchain frontier.
+Full Stack Developer crafting digital solutions at Universal Peace Federation. MERN enthusiast with a passion for Web3 innovation and cybersecurity.
 
 ## ⚡ Tech Stack
 
@@ -25,13 +27,17 @@ Full Stack Developer crafting digital solutions at Universal Peace Federation. M
 ![Database](https://img.shields.io/badge/Database-MongoDB_|_MySQL-4EA94B?style=flat-square)
 ![Web3](https://img.shields.io/badge/Web3-Ethereum_|_Solidity-3C3C3D?style=flat-square)
 
-## 🌊 Beyond Code
+## 🌊 Philosophy
 > "In the grand IDE of life, we are all just functions trying to return value."
-
-When not coding, you'll find me swimming, reading philosophy, experimenting in the kitchen, or practicing mindfulness. Bringing clarity from meditation to problem-solving.
+> 
+> "The best error message is the one that never shows up."
+> 
+> "Life is like programming, you need to enjoy the journey of solving problems."
 
 ## 🔮 Current Focus
 > "Debugging is like being the detective in a crime movie where you are also the murderer."
+>
+> "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."
 
 - Building decentralized applications that bridge Web2 and Web3
 - Infusing AI into web applications for enhanced user experiences
